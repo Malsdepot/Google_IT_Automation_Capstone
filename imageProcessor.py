@@ -6,8 +6,6 @@ from PIL import Image
 src = os.path.expanduser("~/images")
 dst = "/opt/icons/"
 outputFormat = "JPEG"
-outputSizeX = 128
-outputSizeY = 128
 outSize = (128,128)
 outputRotation = 90
 
